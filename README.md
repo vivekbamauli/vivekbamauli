@@ -21,7 +21,6 @@ I’m always eager to learn and contribute to open-source data engineering proje
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
 
 ### ☁️ Cloud Platforms
@@ -50,27 +49,8 @@ I’m always eager to learn and contribute to open-source data engineering proje
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 
----
-
-## 🧠 Methodologies
-Agile | Waterfall | CI/CD  
-
----
-
-## 💡 Projects Highlight
-- ⚡ **IoT-Based Smart Energy Consumption Monitoring**  
-  Designed IoT data pipelines using Azure IoT Hub, Event Hub, Databricks, and Synapse.
-
-- 🌦️ **Real-Time Weather Data Pipeline**  
-  Extracted and processed weather data using Airflow + Python, loaded into Snowflake, and visualized in Power BI.
-
-- 🏪 **BigMart Sales Data Analytics**  
-  Built ETL workflows with Azure Data Factory & Databricks, loaded into Azure SQL, and visualized with Power BI.
-
----
-
 ## 🌐 Languages
-🇬🇧 English | 🇮🇳 Hindi
+English | Hindi
 
 ---
 
